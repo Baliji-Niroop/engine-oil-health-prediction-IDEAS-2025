@@ -1,0 +1,6 @@
+Model,Accuracy,F1 Score,ROC-AUC,CV Accuracy
+Logistic Regression,1.0,1.0,1.0,0.9999488098285129
+Decision Tree,1.0,1.0,1.0,1.0
+Random Forest,1.0,1.0,1.0,1.0
+SVM,1.0,1.0,1.0,0.9999488098285129
+KNN,1.0,1.0,1.0,0.9998976196570257
