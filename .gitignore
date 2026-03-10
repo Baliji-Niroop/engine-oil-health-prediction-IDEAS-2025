@@ -16,3 +16,8 @@ __pycache__/
 *.pyc
 .env
 Add empty .gitkeep files to keep folders.
+
+# Ignore trained models
+Models/*.pkl
+Models/*.h5
+Models/*.json
